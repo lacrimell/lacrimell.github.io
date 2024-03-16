@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://example.com/post/</link>
     </image>
     
     <item>
       <title>Recent week</title>
-      <link>http://localhost:1313/post/recent-week/</link>
+      <link>https://example.com/post/recent-week/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/recent-week/</guid>
+      <guid>https://example.com/post/recent-week/</guid>
       <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
 &lt;p&gt;На этой неделе я начала приболевать и ходила кислая и помятая всё время. Была несколько раз в больнице, но мне так и не сказали есть у меня сахарный диабет или ещё нет. Надеюсь что нет.&lt;/p&gt;
 &lt;h2 id=&#34;праздник-и-выходные&#34;&gt;Праздник и выходные&lt;/h2&gt;
@@ -33,10 +33,42 @@
     </item>
     
     <item>
+      <title>Управление версиями. Git.</title>
+      <link>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.-git./</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.-git./</guid>
+      <description>&lt;h2 id=&#34;система-управления-версиями-основные-принципы&#34;&gt;Система управления версиями: Основные принципы&lt;/h2&gt;
+&lt;p&gt;Система управления версиями (СУВ) играет ключевую роль в процессе разработки программного обеспечения, позволяя разработчикам отслеживать историю изменений и восстанавливать предыдущие версии проекта. Важно понимать основные принципы работы СУВ:&lt;/p&gt;
+&lt;h3 id=&#34;история-изменений-и-журнал-проекта&#34;&gt;История изменений и журнал проекта&lt;/h3&gt;
+&lt;p&gt;Разработчики могут легко просматривать историю изменений в проекте через журнал версий. Это позволяет понять:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Какие изменения были внесены&lt;/li&gt;
+&lt;li&gt;Кто внес изменения&lt;/li&gt;
+&lt;li&gt;Причины, по которым были сделаны изменения
+Эта прозрачность и сводка действий помогают всем участникам команды понять текущее состояние проекта.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;распределенная-система-управления-версиями&#34;&gt;Распределенная система управления версиями&lt;/h3&gt;
+&lt;p&gt;В распределенных системах контроля версий, каждый разработчик имеет локальную копию проекта. Преимущество заключается в том, что не требуется непрерывное подключение к центральному серверу. Git, популярная распределенная система, обеспечивает каждому разработчику полный контроль над историей проекта.&lt;/p&gt;
+&lt;h2 id=&#34;git-мощный-инструмент-современного-разработчика&#34;&gt;GIT: Мощный инструмент современного разработчика&lt;/h2&gt;
+&lt;p&gt;GIT - это неоспоримый лидер среди систем контроля версий благодаря его преимуществам:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Позволяет просматривать все изменения проекта на одной временной шкале&lt;/li&gt;
+&lt;li&gt;Обеспечивает доступ к полной истории проекта для понимания его состояния&lt;/li&gt;
+&lt;li&gt;Обеспечивает безопасное объединение изменений в рабочем коде через ветвление&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;глобальная-совместная-работа&#34;&gt;Глобальная совместная работа&lt;/h3&gt;
+&lt;p&gt;Git позволяет сотрудникам работать в разных часовых поясах, обеспечивая непрерывное взаимодействие и целостность кодовой базы. Благодаря возможности создания и слияния ветвей, команды могут эффективно вносить изменения в проект.&lt;/p&gt;
+&lt;h3 id=&#34;согласованная-работа-и-преодоление-барьеров&#34;&gt;Согласованная работа и преодоление барьеров&lt;/h3&gt;
+&lt;p&gt;Организации, использующие Git, могут эффективно преодолевать коммуникационные барьеры между командами и специалистами, обеспечивая согласованную работу над проектами в рамках всего предприятия.&lt;/p&gt;
+&lt;p&gt;Git является неотъемлемым инструментом для современных разработчиков, обеспечивая гибкость, масштабируемость и эффективное управление версиями кодовой базы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>http://localhost:1313/post/blog-with-jupyter/</link>
+      <link>https://example.com/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
+      <guid>https://example.com/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -61,7 +93,7 @@
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -81,9 +113,9 @@
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>https://example.com/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -161,9 +193,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>http://localhost:1313/post/writing-technical-content/</link>
+      <link>https://example.com/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/writing-technical-content/</guid>
+      <guid>https://example.com/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -263,7 +295,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-437619285&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-398475621&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -273,7 +305,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-437619285&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-398475621&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

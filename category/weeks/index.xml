@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks | Academic</title>
+    <link>https://example.com/category/weeks/</link>
+      <atom:link href="https://example.com/category/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weeks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Weeks</title>
+      <link>https://example.com/category/weeks/</link>
+    </image>
+    
+    <item>
+      <title>Recent week</title>
+      <link>https://example.com/post/recent-week/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/recent-week/</guid>
+      <description>&lt;h2 id=&#34;рабочая-неделя&#34;&gt;Рабочая неделя&lt;/h2&gt;
+&lt;p&gt;На этой неделе я начала приболевать и ходила кислая и помятая всё время. Была несколько раз в больнице, но мне так и не сказали есть у меня сахарный диабет или ещё нет. Надеюсь что нет.&lt;/p&gt;
+&lt;h2 id=&#34;праздник-и-выходные&#34;&gt;Праздник и выходные&lt;/h2&gt;
+&lt;p&gt;На 8 марта я уезжала домой полечиться и отдохнуть, но в итоге только больше заболела и устала. Очень сложно отмечать Муждународный женский день, когда родители считают, что это праздник милых цветочков, а не праздник борьбы за права женщин. Melanie Martinep - Milk of the siren настоящий девиз этого дня.&lt;/p&gt;
+&lt;p&gt;Самое радостное событие за эту неделю это встреча с моей кошкой Бусей. Люблю её больше жизни, надеюсь что смогу получить денег на съёмное жилье и перевезу мою красотку в Москву.&lt;/p&gt;
+&lt;h2 id=&#34;планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Выступить с докладом&lt;/li&gt;
+&lt;li&gt;5 лабораторная работа&lt;/li&gt;
+&lt;li&gt;6 лабораторная работа&lt;/li&gt;
+&lt;li&gt;Индивидуальный проект 2 этап&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
