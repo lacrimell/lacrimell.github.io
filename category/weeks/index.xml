@@ -5,12 +5,32 @@
     <link>https://example.com/category/weeks/</link>
       <atom:link href="https://example.com/category/weeks/index.xml" rel="self" type="application/rss+xml" />
     <description>Weeks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Weeks</title>
       <link>https://example.com/category/weeks/</link>
     </image>
+    
+    <item>
+      <title>My birthday week</title>
+      <link>https://example.com/post/my-birthday-recent-week/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my-birthday-recent-week/</guid>
+      <description>&lt;h2 id=&#34;working-days&#34;&gt;Working days&lt;/h2&gt;
+&lt;p&gt;I had a pleasent conversation with my friend on the phone on Sunday evening, which helped to start week off onn a positive note.&lt;/p&gt;
+&lt;p&gt;When I was a child, I listened to the Ramones. I hadn&amp;rsquo;t listened to them since then until this week. Their music happened to be recommended to me and I fell in love with it again.&lt;/p&gt;
+&lt;p&gt;I have extended my eyelashes to match the color of my hair and I am very pleased with the result (my eyelashes are now blue).&lt;/p&gt;
+&lt;h2 id=&#34;my-birthday&#34;&gt;My birthday&lt;/h2&gt;
+&lt;p&gt;My sweet friend Nastya called me as soon as my birthday arrived and wished me a happy birthday! She drew me a lovely card. All my friends sent me birthday wishes, and Katyusha even came over to my house with a cake in the evening. I got dressed up in some nice clothes, put on some beautiful makeup, and then we all went out to the local cosmetics store after lessons.&lt;/p&gt;
+&lt;h2 id=&#34;plans-for-next-week&#34;&gt;Plans for next week&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;lab 9&lt;/li&gt;
+&lt;li&gt;ip 2&lt;/li&gt;
+&lt;li&gt;cleaning&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Recent week</title>
