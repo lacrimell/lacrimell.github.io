@@ -5,12 +5,30 @@
     <link>https://example.com/category/weeks/</link>
       <atom:link href="https://example.com/category/weeks/index.xml" rel="self" type="application/rss+xml" />
     <description>Weeks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Weeks</title>
       <link>https://example.com/category/weeks/</link>
     </image>
+    
+    <item>
+      <title>Recent week</title>
+      <link>https://example.com/post/may-week/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/may-week/</guid>
+      <description>&lt;h2 id=&#34;не-рабочая-неделя&#34;&gt;(Не) Рабочая неделя&lt;/h2&gt;
+&lt;p&gt;На этой неделе между учебой и отдыхом я выбрала своё моральное благополучие и спокойно провела время дома с семьёй на праздниках.&lt;/p&gt;
+&lt;p&gt;Была у своей подружки, мы плели браслетики, играли с её крысками и радовались жизни. Моего любимого крыса зовут Миста а на втором месте белый лентяй вампир! (на фото)&lt;/p&gt;
+&lt;p&gt;К тому же на этой неделе  состоялся первый понедельник мая, а значит МЕТ ГАЛА!!! Боже, моё любимое событие!!! Мне надо было идти на модного критика, а не это всё&lt;/p&gt;
+&lt;h2 id=&#34;планы-на-следующую-неделю&#34;&gt;Планы на следующую неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Выполнить стёпик по основам&lt;/li&gt;
+&lt;li&gt;Сделать дз по дискретке&lt;/li&gt;
+&lt;li&gt;Написать дискретку кр&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>My birthday week</title>
